@@ -8,3 +8,9 @@ def function1():
      print("Hello")
      
 function1()
+
+
+def function2():
+     print("Goodbye")
+
+function2()
